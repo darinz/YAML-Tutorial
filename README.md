@@ -15,8 +15,6 @@ This repository contains step-by-step tutorials on how to use YAML with Python. 
   - [Reading YAML Files in Python](#reading-yaml-files-in-python)
   - [Writing YAML Files in Python](#writing-yaml-files-in-python)
   - [Handling Multiple YAML Documents in a Single File](#handling-multiple-yaml-documents-in-a-single-file)
-- [Examples](#examples)
-- [License](#license)
 
 ## Introduction
 
